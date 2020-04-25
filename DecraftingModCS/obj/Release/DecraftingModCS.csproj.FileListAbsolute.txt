@@ -1,6 +1,0 @@
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\bin\Release\DecraftingModCS.dll
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\bin\Release\DecraftingModCS.pdb
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\obj\Release\DecraftingModCS.csprojAssemblyReference.cache
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\obj\Release\DecraftingModCS.csproj.CoreCompileInputs.cache
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\obj\Release\DecraftingModCS.dll
-D:\Developer\Projects\Visual Studio 2019\DecraftingModCS\DecraftingModCS\obj\Release\DecraftingModCS.pdb
